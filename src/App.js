@@ -32,7 +32,7 @@ function App() {
               <li>기존 서비스 Kubernetes 환경으로 이전</li>
             </ul>
             <h4>Tech Stack.</h4>
-            <p>Kubernetes, Helm, GitLab CI/CD, SonarQube</p>
+            <p>Kubernetes, Helm, GitLab CI/CD, SonarQube, ArgoCD</p>
           </div>
         </div>
 
@@ -46,7 +46,8 @@ function App() {
             <p>검색엔진을 자체 구현하기 위해 Elastic Search 기반의 Poc을 진행하고 있습니다.</p>
             <h4>Contribution.</h4>
             <ul>
-              <li>PDF 파일 및 외부 파이프라인 구축</li>
+              <li>PDF 파싱 및 색인 파이프라인 구축</li>
+              <li>Analyzer 및 Index 설정</li>
               <li>검색 최적화</li>
             </ul>
             <h4>Tech Stack.</h4>
@@ -65,8 +66,7 @@ function App() {
             <h4>Contribution.</h4>
             <ul>
               <li>Airflow 서버 구축</li>
-              <li>Airflow DAG 구성</li>
-              <li>데이터 수집 및 ETL 작업 관리</li>
+              <li>Airflow DAG 구성 및 유지보수</li>
             </ul>
             <h4>Tech Stack.</h4>
             <p>Airflow, Python</p>
@@ -80,11 +80,11 @@ function App() {
             <h4>스타트업 DB 구축 및 관리.</h4>
             <p>2023.01 - 2024.03</p>
             <h4>Description.</h4>
-            <p>웹 서비스를 위한 DB를 구축하고 데이터를 수집 및 정제하였습니다.</p>
+            <p>웹 서비스를 위한 스타트업 DB를 구축하고 데이터를 수집 및 정제하였습니다.</p>
             <h4>Contribution.</h4>
             <ul>
-              <li>스타트업 데이터 수집 및 클린징</li>
-              <li>데이터 추출, 이동 및 정제</li>
+              <li>스타트업 투자 데이터 수집 및 클린징</li>
+              <li>데이터 수집용 어드민 기획</li>
               <li>웹 서비스용 Table 설계</li>
             </ul>
             <h4>Tech Stack.</h4>
@@ -122,7 +122,7 @@ function App() {
         <div className="skill">
           <h4>Elastic Search.</h4>
           <ul>
-            <li>어널라이저를 설정하고 검색용 인덱스를 만들 수 있습니다.</li>
+            <li>Analyzer를 설정하고 검색용 Index를 만들 수 있습니다.</li>
             <li>검색 결과 최적화를 진행한 경험이 있습니다.</li>
           </ul>
         </div>
@@ -145,7 +145,7 @@ function App() {
         <div className="other">
           <h4>Blog.</h4>
           <p>2024.01 - 현재</p>
-          <p><a href="https://newhwan.tistory.com/" target="_blank" rel="noopener noreferrer" class="no-underline">newhwan</a>이라는 이름으로 블로그를 운영하고 있으며, 새롭게 배우면서 기록하고 공유하고 싶은 내용을 비정기적으로 포스팅합니다.</p>
+          <p><a href="https://newhwan.tistory.com/" target="_blank" rel="noopener noreferrer" class="no-underline">newhwan</a>이라는 이름으로 블로그를 운영하고 있으며, 새로운 것을 배우면서 기록하고 공유하고 싶은 내용을 비정기적으로 포스팅합니다.</p>
         </div>
       </div>
       <hr></hr>
