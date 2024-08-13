@@ -2,7 +2,7 @@
   "name": "my-resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://https://newhwan99.github.io/resume/",
+  "homepage": "https://https:/newhwan99.github.io/resume/",
   "dependencies": {
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
