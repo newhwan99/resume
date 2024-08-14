@@ -40,10 +40,10 @@ function App() {
           <div className="experience-company">
           </div>
           <div className="project">
-            <h4>Elastic Search 기반 검색엔진 Poc.</h4>
+            <h4>Elastic Search 기반 검색엔진 PoC.</h4>
             <p>2024.03 - 현재</p>
             <h4>Description.</h4>
-            <p><a href="https://fnguide.com" target="_blank" rel="noopener noreferrer" class="no-underline">fnguide.com</a>에서 사용되는 리포트 검색엔진을 대체하고 내재화하기 위해 Elastic Search 기반의 Poc을 진행하고 있습니다.</p>
+            <p><a href="https://fnguide.com" target="_blank" rel="noopener noreferrer" class="no-underline">fnguide.com</a>에서 사용되는 리포트 검색엔진을 대체하고 내재화하기 위해 Elastic Search 기반의 PoC을 진행하고 있습니다.</p>
             <h4>Contribution.</h4>
             <ul>
               <li>PDF 파싱 및 색인 파이프라인 구축</li>
