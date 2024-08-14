@@ -27,7 +27,7 @@ function App() {
             <p>클라우드 기반의 인프라를 구축하기 위해 Kubernetes를 구축하고 관리하고 있습니다.</p>
             <h4>Contribution.</h4>
             <ul>
-              <li>Kubernetes 환경 구축 및 노드 관리</li>
+              <li>Kubernetes 클러스터 구축 및 노드 관리</li>
               <li>CI/CD 파이프라인 구축</li>
               <li>기존 서비스 Kubernetes 환경으로 이전</li>
             </ul>
@@ -43,7 +43,7 @@ function App() {
             <h4>Elastic Search 기반 검색엔진 Poc.</h4>
             <p>2024.03 - 현재</p>
             <h4>Description.</h4>
-            <p>검색엔진을 자체 구현하기 위해 Elastic Search 기반의 Poc을 진행하고 있습니다.</p>
+            <p><a href="https://fnguide.com" target="_blank" rel="noopener noreferrer" class="no-underline">fnguide.com</a>에서 사용되는 리포트 검색엔진을 대체하고 내재화하기 위해 Elastic Search 기반의 Poc을 진행하고 있습니다.</p>
             <h4>Contribution.</h4>
             <ul>
               <li>PDF 파싱 및 색인 파이프라인 구축</li>
@@ -153,8 +153,8 @@ function App() {
       <div>
         <ul class="contact-list">
           <li>Mail: <a href="mailto:newhwan99@gmail.com" class="no-underline">newhwan99@gmail.com</a></li>
-          <li>Blog: <a href="https://newhwan.tistory.com" target="_blank" rel="noopener noreferrer" class="no-underline">https://newhwan.tistory.com</a></li>
-          <li>GitHub: <a href="https://github.com/newhwan99" target="_blank" rel="noopener noreferrer" class="no-underline">https://github.com/newhwan99</a></li>
+          <li>Blog: <a href="https://newhwan.tistory.com" target="_blank" rel="noopener noreferrer" class="no-underline">newhwan.tistory.com</a></li>
+          <li>GitHub: <a href="https://github.com/newhwan99" target="_blank" rel="noopener noreferrer" class="no-underline">github.com/newhwan99</a></li>
         </ul>
       </div>
     </div>
