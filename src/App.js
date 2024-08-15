@@ -40,10 +40,10 @@ function App() {
           <div className="experience-company">
           </div>
           <div className="project">
-            <h4>Elastic Search 기반 검색엔진 PoC.</h4>
+            <h4>Elasticsearch 기반 검색엔진 PoC.</h4>
             <p>2024.03 - 현재</p>
             <h4>Description.</h4>
-            <p><a href="https://fnguide.com" target="_blank" rel="noopener noreferrer" class="no-underline">fnguide.com</a>에서 사용되는 리포트 검색엔진을 대체하고 내재화하기 위해 Elastic Search 기반의 PoC을 진행하고 있습니다.</p>
+            <p><a href="https://fnguide.com" target="_blank" rel="noopener noreferrer" class="no-underline">fnguide.com</a>에서 사용되는 리포트 검색엔진을 대체하고 내재화하기 위해 Elasticsearch 기반의 PoC을 진행하고 있습니다.</p>
             <h4>Contribution.</h4>
             <ul>
               <li>PDF 파싱 및 색인 파이프라인 구축</li>
@@ -51,7 +51,7 @@ function App() {
               <li>검색 최적화</li>
             </ul>
             <h4>Tech Stack.</h4>
-            <p>Elastic Search, Kibana, Kafka, Python</p>
+            <p>Elasticsearch, Kibana, Kafka, Python</p>
           </div>
         </div>
 
@@ -120,7 +120,7 @@ function App() {
           </ul>
         </div>
         <div className="skill">
-          <h4>Elastic Search.</h4>
+          <h4>Elasticsearch.</h4>
           <ul>
             <li>Analyzer를 설정하고 검색용 Index를 만들 수 있습니다.</li>
             <li>검색 결과 최적화를 진행한 경험이 있습니다.</li>
@@ -131,6 +131,13 @@ function App() {
           <ul>
             <li>Rancher를 이용해 쿠버네티스 클러스터를 구축할 수 있습니다.</li>
             <li>GitLab CI, SonarQube, ArgoCD 등을 이용해 CI/CD를 구축한 경험이 있습니다.</li>
+          </ul>
+        </div>
+        <div className="skill">
+          <h4>SQL.</h4>
+          <ul>
+            <li>실행계획을 분석하여 SQL를 튜닝할 수 있습니다.</li>
+            <li>추상화를 통해 효율적이고 적절한 테이블 구조를 설계할 수 있습니다.</li>
           </ul>
         </div>
       </div>
